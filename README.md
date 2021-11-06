@@ -1,26 +1,14 @@
 <div align="center">
-  <a href="//handsontable.com" target="_blank"><img src="https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74-new.png" alt="Handsontable Community Edition logo" /></a>
+  <a href="//handsontable.com" target="_blank"><img src="Handsontable-logo-300-74-new.png" alt="Handsontable Community Edition logo" /></a>
 </div>
 
 <br/>
 
-[**Handsontable Community Edition (CE)**](//handsontable.com) is an open source JavaScript/HTML5 data grid component with spreadsheet look & feel. It easily integrates with any data source and comes with a variety of useful features like data binding, validation, sorting or powerful context menu. It is available for [Vue](//github.com/handsontable/vue-handsontable-official), [React](//github.com/handsontable/react-handsontable), [Angular](//github.com/handsontable/angular-handsontable) and [Polymer](//github.com/handsontable/hot-table).
+[**Handsontable Community Edition (CE)**](//handsontable.com) is an open source JavaScript/HTML5 data grid component with spreadsheet look & feel. It easily integrates with any data source and comes with a variety of useful features like data binding, validation, sorting or powerful context menu.
 
-If you are looking for an extended version, try out [Handsontable Pro](//github.com/handsontable/handsontable-pro).
-
-[![Build status](https://travis-ci.org/handsontable/handsontable.png?branch=master)](//travis-ci.org/handsontable/handsontable)
-[![npm](https://img.shields.io/npm/dt/handsontable.svg)](//npmjs.com/package/handsontable)
-[![npm](https://img.shields.io/npm/dm/handsontable.svg)](//npmjs.com/package/handsontable)
-[![npm](https://img.shields.io/github/contributors/handsontable/handsontable.svg)](//github.com/handsontable/handsontable/graphs/contributors)
-
+If you are looking for an extended version, try out [Handsontable Current Version](//github.com/handsontable/handsontable).
 
 ----
-
-**We are looking for Contributors who would like to help us with translations. [Learn more](https://github.com/handsontable/handsontable/issues/4696)**
-<br/>
-Most wanted languages: Danish, Portuguese, Spanish and Swedish.
-
----
 
 <br/>
 
@@ -60,7 +48,7 @@ npm install handsontable
 ```
 
 **Alternative ways to install**
-- See the [download section](//handsontable.com/community-download) on how to install Handsontable CE using nuget, bower, yarn and more.
+- See the [download section](//github.com/nhereveri/handsontableCE/releases) on how to install Handsontable CE using nuget, bower, yarn and more.
 
 <br/>
 
@@ -112,61 +100,37 @@ var hot = new Handsontable(container, {
 - Internationalization
 - Non-contiguous selection
 
-[See a comparison table](//handsontable.com/docs/tutorial-features.html)
+[See a comparison table](//handsontable.com/docs/6.2.2/tutorial-features.html)
 
 <br/>
 
 ### Screenshot
 <div align="center">
 <a href="//handsontable.com/examples.html">
-<img src="https://raw.githubusercontent.com/handsontable/static-files/master/Images/Screenshots/handsontable-ce-showcase.png" align="center" alt="Handsontable Community Edition Screenshot"/>
+<img src="handsontable-ce-showcase.png" align="center" alt="Handsontable Community Edition Screenshot"/>
 </a>
 </div>
 
 <br/>
 
 ### Resources
-- [API Reference](//handsontable.com/docs/Core.html)
-- [Compatibility](//handsontable.com/docs/tutorial-compatibility.html)
-- [Change log](//github.com/handsontable/handsontable/releases)
-- [Roadmap](//trello.com/b/PztR4hpj)
-- [Newsroom](//twitter.com/handsontable)
-
-<br/>
-
-### Wrappers
-Handsontable CE comes with wrappers and directives for most popular frameworks:
-
-- [Angular](//github.com/handsontable/angular-handsontable)
-- [Angular 1](//github.com/handsontable/ngHandsontable)
-- [React](//github.com/handsontable/react-handsontable)
-- [Vue](//github.com/handsontable/vue-handsontable-official)
-- [Polymer](//github.com/handsontable/hot-table)
-- [Typescript file](//github.com/handsontable/handsontable/blob/master/handsontable.d.ts)
+- [API Reference](//handsontable.com/docs/6.2.2/Core.html)
+- [Compatibility](//handsontable.com/docs/6.2.2/tutorial-compatibility.html)
+- [Change log](//github.com/nhereveri/handsontableCE/releases)
 
 <br/>
 
 ### Support
-Report all the suggestions and problems on [GitHub Issues](//github.com/handsontable/handsontable/issues).
-
-An open source version doesn't include a commercial support. You need to purchase [Handsontable Pro](//github.com/handsontable/handsontable-pro) license or [contact us](//handsontable.com/contact.html) directly in order to obtain a technical support from the Handsoncode team.
-
-<br/>
-
-### Contributing
-If you would like to help us to develop Handsontable, please take a look at this [guide for contributing](//github.com/handsontable/handsontable/blob/master/CONTRIBUTING.md).
+Report all the suggestions and problems on [GitHub Issues](//github.com/nhereveri/handsontableCE/issues).
 
 <br/>
 
 ### Community
-- [GitHub issues](//github.com/handsontable/handsontable/issues)
 - [Stackoverflow](//stackoverflow.com/tags/handsontable)
-- [Forum](//forum.handsontable.com)
-- [Twitter](//twitter.com/handsontable)
 
 <br/>
 
 ### License
-Handsontable Community Edition is released under the MIT license. [Read license](//github.com/handsontable/handsontable/blob/master/LICENSE).
+Handsontable Community Edition is released under the MIT license. [Read license](//github.com/nhereveri/handsontableCE/blob/master/LICENSE).
 
 Copyrights belong to Handsoncode sp. z o.o.
