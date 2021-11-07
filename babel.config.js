@@ -4,8 +4,13 @@ module.exports = {
       '@babel/preset-env', {
         targets: {
           browsers: [
-            'last 2 versions',
-            'not ie > 0'
+            'chrome >= 94',
+            'edge >= 94',
+            'firefox >= 93',
+            'ios_saf >= 14.5',
+            'safari >= 14.1',
+            'android >= 10',
+            'firefox esr'
           ]
         },
         exclude: [
