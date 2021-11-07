@@ -1,8 +1,8 @@
+<img src="warning.svg" width="800" height="400" alt="Click to see the source">
+
 <div align="center">
   <a href="//handsontable.com" target="_blank"><img src="Handsontable-logo-300-74-new.png" alt="Handsontable Community Edition logo" /></a>
 </div>
-
-<img src="warning.svg" width="800" height="400" alt="Click to see the source">
 
 [**Handsontable Community Edition (CE)**](//handsontable.com) is an open source JavaScript/HTML5 data grid component with spreadsheet look & feel. It easily integrates with any data source and comes with a variety of useful features like data binding, validation, sorting or powerful context menu.
 
