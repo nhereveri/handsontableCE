@@ -1,3 +1,30 @@
+<style>
+.warning {
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+  border-left: 5px solid #ff9100;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: box-shadow 0.3s;
+  color: rgba(0,0,0,0.87);
+  font-family: sans-serif;
+}
+
+.warning:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.warning:before {
+  display: block;
+  font-family: sans-serif;
+  font-weight: bold;
+  content: '⚠ Warning';
+  margin: -1rem -1rem 1rem -1rem;
+  padding: 0.4rem 0.6rem 0.4rem 1rem;
+  background-color: rgba(255,145,0,.1);
+}
+</style>
+
 <div align="center">
   <a href="//handsontable.com" target="_blank"><img src="Handsontable-logo-300-74-new.png" alt="Handsontable Community Edition logo" /></a>
 </div>
@@ -9,6 +36,10 @@
 If you are looking for an extended version, try out [Handsontable Current Version](//github.com/handsontable/handsontable).
 
 ----
+
+<div class="warning">
+This is a warning
+</div>
 
 <br/>
 
