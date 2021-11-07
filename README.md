@@ -37,8 +37,8 @@ If you are looking for an extended version, try out [Handsontable Current Versio
 
 ----
 
-<div class="warning">
-This is a warning
+<div align="center">
+  <img src="warning.svg" width="800" height="400" alt="Click to see the source">
 </div>
 
 <br/>
